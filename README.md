@@ -1,2 +1,2 @@
 # Kmeans
-Kmeans
+Kmeans from scratch
